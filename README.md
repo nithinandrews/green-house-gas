@@ -19,13 +19,6 @@ Welcome to a deep dive into the world of CO₂ emissions! This project leverages
 ### 5. **Key Takeaways**
    - **Global Inequities in CO₂ Emissions**: This project reveals the uneven distribution of CO₂ emissions worldwide, emphasizing the need for informed, targeted policies to combat climate change.
 
-## 🛠 Installation & Setup
 
-To get started with this project:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/CO2-Emissions-Analysis.git
-   cd CO2-Emissions-Analysis
 
 
